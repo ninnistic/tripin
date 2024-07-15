@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Noto_Sans_KR } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const sans = Noto_Sans_KR({
+  subsets: ["latin"],
+  weight: ["200", "400", "700"],
+});
 
 export const metadata: Metadata = {
   title: "tripin",
@@ -16,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={sans.className}>{children}</body>
     </html>
   );
 }
