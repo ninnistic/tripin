@@ -67,3 +67,8 @@
     @apply bg-background text-foreground;
   }
 }
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}

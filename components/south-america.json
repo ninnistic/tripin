@@ -1,0 +1,219 @@
+{
+    "type": "Topology",
+    "objects": {
+        "world": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [
+                            [
+                                23,
+                                24
+                            ]
+                        ],
+                        [
+                            [
+                                25,
+                                26,
+                                27,
+                                28,
+                                29,
+                                30
+                            ]
+                        ]
+                    ],
+                    "id": "ARG",
+                    "properties": {
+                        "name": "Argentina"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            101,
+                            102,
+                            103,
+                            104,
+                            -31
+                        ]
+                    ],
+                    "id": "BOL",
+                    "properties": {
+                        "name": "Bolivia"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            -27,
+                            105,
+                            -104,
+                            106,
+                            107,
+                            108,
+                            109,
+                            110,
+                            111,
+                            112,
+                            113
+                        ]
+                    ],
+                    "id": "BRA",
+                    "properties": {
+                        "name": "Brazil"
+                    }
+                },
+                {
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [
+                            [
+                                -24,
+                                170
+                            ]
+                        ],
+                        [
+                            [
+                                -30,
+                                171,
+                                172,
+                                -102
+                            ]
+                        ]
+                    ],
+                    "id": "CHL",
+                    "properties": {
+                        "name": "Chile"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            229,
+                            230,
+                            231,
+                            232,
+                            233,
+                            -108,
+                            234
+                        ]
+                    ],
+                    "id": "COL",
+                    "properties": {
+                        "name": "Colombia"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            268,
+                            -230,
+                            269
+                        ]
+                    ],
+                    "id": "ECU",
+                    "properties": {
+                        "name": "Ecuador"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            346,
+                            347,
+                            -110,
+                            348
+                        ]
+                    ],
+                    "id": "GUY",
+                    "properties": {
+                        "name": "Guyana"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            -173,
+                            548,
+                            -270,
+                            -235,
+                            -107,
+                            -103
+                        ]
+                    ],
+                    "id": "PER",
+                    "properties": {
+                        "name": "Peru"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            -105,
+                            -106,
+                            -26
+                        ]
+                    ],
+                    "id": "PRY",
+                    "properties": {
+                        "name": "Paraguay"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            651,
+                            -312,
+                            652,
+                            -111,
+                            -348
+                        ]
+                    ],
+                    "id": "SUR",
+                    "properties": {
+                        "name": "Suriname"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            -114,
+                            691,
+                            -28
+                        ]
+                    ],
+                    "id": "URY",
+                    "properties": {
+                        "name": "Uruguay"
+                    }
+                },
+                {
+                    "type": "Polygon",
+                    "arcs": [
+                        [
+                            704,
+                            -349,
+                            -109,
+                            -234
+                        ]
+                    ],
+                    "id": "VEN",
+                    "properties": {
+                        "name": "Venezuela"
+                    }
+                }
+            ]
+        }
+    }
+}

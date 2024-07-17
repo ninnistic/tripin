@@ -1,3 +1,8 @@
+import Map from '@/components/map';
 export default function AboutPage() {
-  return <div>about</div>;
+  return (
+    <div>
+      <Map />
+    </div>
+  );
 }
