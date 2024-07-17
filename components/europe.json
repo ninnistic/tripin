@@ -1,869 +1,381 @@
 {
-    "type": "Topology",
-    "objects": {
-        "world": {
-            "type": "GeometryCollection",
-            "geometries": [
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            13,
-                            14,
-                            15,
-                            16,
-                            17
-                        ]
-                    ],
-                    "id": "ALB",
-                    "properties": {
-                        "name": "Albania"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            39,
-                            40,
-                            41,
-                            42,
-                            43,
-                            44,
-                            45,
-                            46,
-                            47,
-                            48,
-                            49
-                        ]
-                    ],
-                    "id": "AUT",
-                    "properties": {
-                        "name": "Austria"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            59,
-                            60,
-                            61,
-                            62,
-                            63
-                        ]
-                    ],
-                    "id": "BEL",
-                    "properties": {
-                        "name": "Belgium"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            77,
-                            78,
-                            79,
-                            80,
-                            81,
-                            82
-                        ]
-                    ],
-                    "id": "BGR",
-                    "properties": {
-                        "name": "Bulgaria"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            86,
-                            87,
-                            88,
-                            89
-                        ]
-                    ],
-                    "id": "BIH",
-                    "properties": {
-                        "name": "Bosnia and Herzegovina"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            90,
-                            91,
-                            92,
-                            93,
-                            94,
-                            95,
-                            96,
-                            97
-                        ]
-                    ],
-                    "id": "BLR",
-                    "properties": {
-                        "name": "Belarus"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -47,
-                            164,
-                            165,
-                            166,
-                            -43,
-                            167,
-                            168,
-                            169
-                        ]
-                    ],
-                    "id": "CHE",
-                    "properties": {
-                        "name": "Switzerland"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -49,
-                            241,
-                            242,
-                            243
-                        ]
-                    ],
-                    "id": "CZE",
-                    "properties": {
-                        "name": "Czechia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            244,
-                            245,
-                            -242,
-                            -48,
-                            -170,
-                            246,
-                            247,
-                            -61,
-                            248,
-                            249,
-                            250
-                        ]
-                    ],
-                    "id": "DEU",
-                    "properties": {
-                        "name": "Germany"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                255
-                            ]
-                        ],
-                        [
-                            [
-                                -251,
-                                256
-                            ]
-                        ]
-                    ],
-                    "id": "DNK",
-                    "properties": {
-                        "name": "Denmark"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            280,
-                            281,
-                            282,
-                            283
-                        ]
-                    ],
-                    "id": "ESP",
-                    "properties": {
-                        "name": "Spain"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            284,
-                            285,
-                            286,
-                            287
-                        ]
-                    ],
-                    "id": "EST",
-                    "properties": {
-                        "name": "Estonia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            298,
-                            299,
-                            300,
-                            301
-                        ]
-                    ],
-                    "id": "FIN",
-                    "properties": {
-                        "name": "Finland"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                305
-                            ]
-                        ],
-                        [
-                            [
-                                306,
-                                -247,
-                                -169,
-                                307,
-                                308,
-                                -282,
-                                309,
-                                -63
-                            ]
-                        ]
-                    ],
-                    "id": "FRA",
-                    "properties": {
-                        "name": "France"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                315,
-                                316
-                            ]
-                        ],
-                        [
-                            [
-                                317
-                            ]
-                        ]
-                    ],
-                    "id": "GBR",
-                    "properties": {
-                        "name": "United Kingdom"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                337
-                            ]
-                        ],
-                        [
-                            [
-                                338,
-                                -14,
-                                339,
-                                -81,
-                                340
-                            ]
-                        ]
-                    ],
-                    "id": "GRC",
-                    "properties": {
-                        "name": "Greece"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            353,
-                            354,
-                            355,
-                            -90,
-                            356,
-                            357,
-                            358
-                        ]
-                    ],
-                    "id": "HRV",
-                    "properties": {
-                        "name": "Croatia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -40,
-                            360,
-                            361,
-                            362,
-                            363,
-                            364,
-                            -359,
-                            365
-                        ]
-                    ],
-                    "id": "HUN",
-                    "properties": {
-                        "name": "Hungary"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            386,
-                            -316
-                        ]
-                    ],
-                    "id": "IRL",
-                    "properties": {
-                        "name": "Ireland"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            401
-                        ]
-                    ],
-                    "id": "ISL",
-                    "properties": {
-                        "name": "Iceland"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                408
-                            ]
-                        ],
-                        [
-                            [
-                                409
-                            ]
-                        ],
-                        [
-                            [
-                                410,
-                                411,
-                                -308,
-                                -168,
-                                -42
-                            ]
-                        ]
-                    ],
-                    "id": "ITA",
-                    "properties": {
-                        "name": "Italy"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            468,
-                            469,
-                            470,
-                            -91,
-                            471
-                        ]
-                    ],
-                    "id": "LTU",
-                    "properties": {
-                        "name": "Lithuania"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -248,
-                            -307,
-                            -62
-                        ]
-                    ],
-                    "id": "LUX",
-                    "properties": {
-                        "name": "Luxembourg"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            472,
-                            -288,
-                            473,
-                            -92,
-                            -471
-                        ]
-                    ],
-                    "id": "LVA",
-                    "properties": {
-                        "name": "Latvia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            476,
-                            477
-                        ]
-                    ],
-                    "id": "MDA",
-                    "properties": {
-                        "name": "Moldova"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -452,
-                            482,
-                            -82,
-                            -340,
-                            483
-                        ]
-                    ],
-                    "id": "MKD",
-                    "properties": {
-                        "name": "North Macedonia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            489,
-                            -89,
-                            490,
-                            -450,
-                            -16
-                        ]
-                    ],
-                    "id": "MNE",
-                    "properties": {
-                        "name": "Montenegro"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -249,
-                            -60,
-                            533
-                        ]
-                    ],
-                    "id": "NLD",
-                    "properties": {
-                        "name": "Netherlands"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                -302,
-                                534,
-                                535
-                            ]
-                        ],
-                        [
-                            [
-                                536
-                            ]
-                        ],
-                        [
-                            [
-                                537
-                            ]
-                        ],
-                        [
-                            [
-                                538
-                            ]
-                        ]
-                    ],
-                    "id": "NOR",
-                    "properties": {
-                        "name": "Norway"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -246,
-                            560,
-                            561,
-                            -472,
-                            -98,
-                            562,
-                            563,
-                            -243
-                        ]
-                    ],
-                    "id": "POL",
-                    "properties": {
-                        "name": "Poland"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -284,
-                            567
-                        ]
-                    ],
-                    "id": "PRT",
-                    "properties": {
-                        "name": "Portugal"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            570,
-                            -478,
-                            571,
-                            572,
-                            -78,
-                            573,
-                            -363
-                        ]
-                    ],
-                    "id": "ROU",
-                    "properties": {
-                        "name": "Romania"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                574
-                            ]
-                        ],
-                        [
-                            [
-                                -562,
-                                575,
-                                -469
-                            ]
-                        ],
-                        [
-                            [
-                                576
-                            ]
-                        ],
-                        [
-                            [
-                                577
-                            ]
-                        ],
-                        [
-                            [
-                                578
-                            ]
-                        ],
-                        [
-                            [
-                                579
-                            ]
-                        ],
-                        [
-                            [
-                                580
-                            ]
-                        ],
-                        [
-                            [
-                                581
-                            ]
-                        ],
-                        [
-                            [
-                                582
-                            ]
-                        ],
-                        [
-                            [
-                                -181,
-                                583,
-                                584,
-                                585,
-                                -177,
-                                586,
-                                -175,
-                                587,
-                                -202,
-                                588,
-                                -200,
-                                589,
-                                -198,
-                                -499,
-                                590,
-                                591,
-                                -496,
-                                592,
-                                -494,
-                                593,
-                                -492,
-                                -196,
-                                -433,
-                                594,
-                                -431,
-                                595,
-                                596,
-                                -428,
-                                597,
-                                -426,
-                                598,
-                                599,
-                                600,
-                                -55,
-                                601,
-                                -322,
-                                602,
-                                -320,
-                                603,
-                                604,
-                                605,
-                                606,
-                                607,
-                                608,
-                                609,
-                                610,
-                                611,
-                                -95,
-                                612,
-                                -93,
-                                -474,
-                                -287,
-                                613,
-                                614,
-                                -299,
-                                615
-                            ]
-                        ],
-                        [
-                            [
-                                616
-                            ]
-                        ],
-                        [
-                            [
-                                617
-                            ]
-                        ],
-                        [
-                            [
-                                618
-                            ]
-                        ]
-                    ],
-                    "id": "RUS",
-                    "properties": {
-                        "name": "Russia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -83,
-                            -483,
-                            -451,
-                            -491,
-                            -88,
-                            649,
-                            -355,
-                            650,
-                            -364,
-                            -574
-                        ]
-                    ],
-                    "id": "SRB",
-                    "properties": {
-                        "name": "Serbia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -564,
-                            653,
-                            -361,
-                            -50,
-                            -244
-                        ]
-                    ],
-                    "id": "SVK",
-                    "properties": {
-                        "name": "Slovakia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -41,
-                            -366,
-                            -358,
-                            654,
-                            -411
-                        ]
-                    ],
-                    "id": "SVN",
-                    "properties": {
-                        "name": "Slovenia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -535,
-                            -301,
-                            655
-                        ]
-                    ],
-                    "id": "SWE",
-                    "properties": {
-                        "name": "Sweden"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            685,
-                            -611,
-                            686,
-                            -609,
-                            687,
-                            688,
-                            689,
-                            -605,
-                            690,
-                            -572,
-                            -477,
-                            -571,
-                            -362,
-                            -654,
-                            -563,
-                            -97
-                        ]
-                    ],
-                    "id": "UKR",
-                    "properties": {
-                        "name": "Ukraine"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            760
-                        ]
-                    ],
-                    "id": "AND",
-                    "properties": {
-                        "name": "Andorra"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -45,
-                            761,
-                            -166,
-                            762
-                        ]
-                    ],
-                    "id": "LIE",
-                    "properties": {
-                        "name": "Liechtenstein"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            763
-                        ]
-                    ],
-                    "id": "MLT",
-                    "properties": {
-                        "name": "Malta"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            764
-                        ]
-                    ],
-                    "id": "MCO",
-                    "properties": {
-                        "name": "Monaco"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            765
-                        ]
-                    ],
-                    "id": "SMR",
-                    "properties": {
-                        "name": "San Marino"
-                    }
-                }
+  "type": "Topology",
+  "objects": {
+    "world": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Polygon",
+          "arcs": [[13, 14, 15, 16, 17]],
+          "id": "ALB",
+          "properties": {
+            "name": "Albania"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]],
+          "id": "AUT",
+          "properties": {
+            "name": "Austria"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[59, 60, 61, 62, 63]],
+          "id": "BEL",
+          "properties": {
+            "name": "Belgium"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[77, 78, 79, 80, 81, 82]],
+          "id": "BGR",
+          "properties": {
+            "name": "Bulgaria"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[86, 87, 88, 89]],
+          "id": "BIH",
+          "properties": {
+            "name": "Bosnia and Herzegovina"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[90, 91, 92, 93, 94, 95, 96, 97]],
+          "id": "BLR",
+          "properties": {
+            "name": "Belarus"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-47, 164, 165, 166, -43, 167, 168, 169]],
+          "id": "CHE",
+          "properties": {
+            "name": "Switzerland"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-49, 241, 242, 243]],
+          "id": "CZE",
+          "properties": {
+            "name": "Czechia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[244, 245, -242, -48, -170, 246, 247, -61, 248, 249, 250]],
+          "id": "DEU",
+          "properties": {
+            "name": "Germany"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[255]], [[-251, 256]]],
+          "id": "DNK",
+          "properties": {
+            "name": "Denmark"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[280, 281, 282, 283]],
+          "id": "ESP",
+          "properties": {
+            "name": "Spain"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[284, 285, 286, 287]],
+          "id": "EST",
+          "properties": {
+            "name": "Estonia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[298, 299, 300, 301]],
+          "id": "FIN",
+          "properties": {
+            "name": "Finland"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[305]], [[306, -247, -169, 307, 308, -282, 309, -63]]],
+          "id": "FRA",
+          "properties": {
+            "name": "France"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[315, 316]], [[317]]],
+          "id": "GBR",
+          "properties": {
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[337]], [[338, -14, 339, -81, 340]]],
+          "id": "GRC",
+          "properties": {
+            "name": "Greece"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[353, 354, 355, -90, 356, 357, 358]],
+          "id": "HRV",
+          "properties": {
+            "name": "Croatia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-40, 360, 361, 362, 363, 364, -359, 365]],
+          "id": "HUN",
+          "properties": {
+            "name": "Hungary"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[386, -316]],
+          "id": "IRL",
+          "properties": {
+            "name": "Ireland"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[401]],
+          "id": "ISL",
+          "properties": {
+            "name": "Iceland"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[408]], [[409]], [[410, 411, -308, -168, -42]]],
+          "id": "ITA",
+          "properties": {
+            "name": "Italy"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[468, 469, 470, -91, 471]],
+          "id": "LTU",
+          "properties": {
+            "name": "Lithuania"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-248, -307, -62]],
+          "id": "LUX",
+          "properties": {
+            "name": "Luxembourg"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[472, -288, 473, -92, -471]],
+          "id": "LVA",
+          "properties": {
+            "name": "Latvia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[476, 477]],
+          "id": "MDA",
+          "properties": {
+            "name": "Moldova"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-452, 482, -82, -340, 483]],
+          "id": "MKD",
+          "properties": {
+            "name": "North Macedonia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[489, -89, 490, -450, -16]],
+          "id": "MNE",
+          "properties": {
+            "name": "Montenegro"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-249, -60, 533]],
+          "id": "NLD",
+          "properties": {
+            "name": "Netherlands"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[-302, 534, 535]], [[536]], [[537]], [[538]]],
+          "id": "NOR",
+          "properties": {
+            "name": "Norway"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-246, 560, 561, -472, -98, 562, 563, -243]],
+          "id": "POL",
+          "properties": {
+            "name": "Poland"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-284, 567]],
+          "id": "PRT",
+          "properties": {
+            "name": "Portugal"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[570, -478, 571, 572, -78, 573, -363]],
+          "id": "ROU",
+          "properties": {
+            "name": "Romania"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [[574]],
+            [[-562, 575, -469]],
+            [[576]],
+            [[577]],
+            [[578]],
+            [[579]],
+            [[580]],
+            [[581]],
+            [[582]],
+            [
+              [
+                -181, 583, 584, 585, -177, 586, -175, 587, -202, 588, -200, 589,
+                -198, -499, 590, 591, -496, 592, -494, 593, -492, -196, -433,
+                594, -431, 595, 596, -428, 597, -426, 598, 599, 600, -55, 601,
+                -322, 602, -320, 603, 604, 605, 606, 607, 608, 609, 610, 611,
+                -95, 612, -93, -474, -287, 613, 614, -299, 615
+              ]
+            ],
+            [[616]],
+            [[617]],
+            [[618]]
+          ],
+          "id": "RUS",
+          "properties": {
+            "name": "Russia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-83, -483, -451, -491, -88, 649, -355, 650, -364, -574]],
+          "id": "SRB",
+          "properties": {
+            "name": "Serbia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-564, 653, -361, -50, -244]],
+          "id": "SVK",
+          "properties": {
+            "name": "Slovakia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-41, -366, -358, 654, -411]],
+          "id": "SVN",
+          "properties": {
+            "name": "Slovenia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-535, -301, 655]],
+          "id": "SWE",
+          "properties": {
+            "name": "Sweden"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              685, -611, 686, -609, 687, 688, 689, -605, 690, -572, -477, -571,
+              -362, -654, -563, -97
             ]
+          ],
+          "id": "UKR",
+          "properties": {
+            "name": "Ukraine"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[760]],
+          "id": "AND",
+          "properties": {
+            "name": "Andorra"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-45, 761, -166, 762]],
+          "id": "LIE",
+          "properties": {
+            "name": "Liechtenstein"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[763]],
+          "id": "MLT",
+          "properties": {
+            "name": "Malta"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[764]],
+          "id": "MCO",
+          "properties": {
+            "name": "Monaco"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[765]],
+          "id": "SMR",
+          "properties": {
+            "name": "San Marino"
+          }
         }
+      ]
     }
+  }
 }

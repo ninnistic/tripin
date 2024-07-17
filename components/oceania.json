@@ -1,309 +1,130 @@
 {
-    "type": "Topology",
-    "objects": {
-        "world": {
-            "type": "GeometryCollection",
-            "geometries": [
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                37
-                            ]
-                        ],
-                        [
-                            [
-                                38
-                            ]
-                        ]
-                    ],
-                    "id": "AUS",
-                    "properties": {
-                        "name": "Australia"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                302
-                            ]
-                        ],
-                        [
-                            [
-                                303
-                            ]
-                        ],
-                        [
-                            [
-                                304
-                            ]
-                        ]
-                    ],
-                    "id": "FJI",
-                    "properties": {
-                        "name": "Fiji"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            523
-                        ]
-                    ],
-                    "id": "NCL",
-                    "properties": {
-                        "name": "New Caledonia"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                539
-                            ]
-                        ],
-                        [
-                            [
-                                540
-                            ]
-                        ]
-                    ],
-                    "id": "NZL",
-                    "properties": {
-                        "name": "New Zealand"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                556
-                            ]
-                        ],
-                        [
-                            [
-                                557
-                            ]
-                        ],
-                        [
-                            [
-                                -376,
-                                558
-                            ]
-                        ],
-                        [
-                            [
-                                559
-                            ]
-                        ]
-                    ],
-                    "id": "PNG",
-                    "properties": {
-                        "name": "Papua New Guinea"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                639
-                            ]
-                        ],
-                        [
-                            [
-                                640
-                            ]
-                        ],
-                        [
-                            [
-                                641
-                            ]
-                        ],
-                        [
-                            [
-                                642
-                            ]
-                        ],
-                        [
-                            [
-                                643
-                            ]
-                        ]
-                    ],
-                    "id": "SLB",
-                    "properties": {
-                        "name": "Solomon Islands"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                706
-                            ]
-                        ],
-                        [
-                            [
-                                707
-                            ]
-                        ]
-                    ],
-                    "id": "VUT",
-                    "properties": {
-                        "name": "Vanuatu"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                729
-                            ]
-                        ],
-                        [
-                            [
-                                730
-                            ]
-                        ]
-                    ],
-                    "id": "MHL",
-                    "properties": {
-                        "name": "Marshall Islands"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            736
-                        ]
-                    ],
-                    "id": "NRU",
-                    "properties": {
-                        "name": "Nauru"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            737
-                        ]
-                    ],
-                    "id": "PLW",
-                    "properties": {
-                        "name": "Palau"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                738
-                            ]
-                        ],
-                        [
-                            [
-                                739
-                            ]
-                        ]
-                    ],
-                    "id": "WSM",
-                    "properties": {
-                        "name": "Samoa"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                741
-                            ]
-                        ],
-                        [
-                            [
-                                742
-                            ]
-                        ],
-                        [
-                            [
-                                743
-                            ]
-                        ]
-                    ],
-                    "id": "TON",
-                    "properties": {
-                        "name": "Tonga"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                744
-                            ]
-                        ],
-                        [
-                            [
-                                745
-                            ]
-                        ],
-                        [
-                            [
-                                746
-                            ]
-                        ],
-                        [
-                            [
-                                747
-                            ]
-                        ],
-                        [
-                            [
-                                748
-                            ]
-                        ],
-                        [
-                            [
-                                749
-                            ]
-                        ],
-                        [
-                            [
-                                750
-                            ]
-                        ]
-                    ],
-                    "id": "TUV",
-                    "properties": {
-                        "name": "Tuvalu"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            766
-                        ]
-                    ],
-                    "id": "KIR",
-                    "properties": {
-                        "name": "Kiribati"
-                    }
-                }
-            ]
+  "type": "Topology",
+  "objects": {
+    "world": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[37]], [[38]]],
+          "id": "AUS",
+          "properties": {
+            "name": "Australia"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[302]], [[303]], [[304]]],
+          "id": "FJI",
+          "properties": {
+            "name": "Fiji"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[523]],
+          "id": "NCL",
+          "properties": {
+            "name": "New Caledonia"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[539]], [[540]]],
+          "id": "NZL",
+          "properties": {
+            "name": "New Zealand"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[556]], [[557]], [[-376, 558]], [[559]]],
+          "id": "PNG",
+          "properties": {
+            "name": "Papua New Guinea"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[639]], [[640]], [[641]], [[642]], [[643]]],
+          "id": "SLB",
+          "properties": {
+            "name": "Solomon Islands"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[706]], [[707]]],
+          "id": "VUT",
+          "properties": {
+            "name": "Vanuatu"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[729]], [[730]]],
+          "id": "MHL",
+          "properties": {
+            "name": "Marshall Islands"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[736]],
+          "id": "NRU",
+          "properties": {
+            "name": "Nauru"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[737]],
+          "id": "PLW",
+          "properties": {
+            "name": "Palau"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[738]], [[739]]],
+          "id": "WSM",
+          "properties": {
+            "name": "Samoa"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[741]], [[742]], [[743]]],
+          "id": "TON",
+          "properties": {
+            "name": "Tonga"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [[744]],
+            [[745]],
+            [[746]],
+            [[747]],
+            [[748]],
+            [[749]],
+            [[750]]
+          ],
+          "id": "TUV",
+          "properties": {
+            "name": "Tuvalu"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[766]],
+          "id": "KIR",
+          "properties": {
+            "name": "Kiribati"
+          }
         }
+      ]
     }
+  }
 }

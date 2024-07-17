@@ -1,557 +1,244 @@
 {
-    "type": "Topology",
-    "objects": {
-        "world": {
-            "type": "GeometryCollection",
-            "geometries": [
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                83
-                            ]
-                        ],
-                        [
-                            [
-                                84
-                            ]
-                        ],
-                        [
-                            [
-                                85
-                            ]
-                        ]
-                    ],
-                    "id": "BHS",
-                    "properties": {
-                        "name": "Bahamas"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            98,
-                            99,
-                            100
-                        ]
-                    ],
-                    "id": "BLZ",
-                    "properties": {
-                        "name": "Belize"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                129
-                            ]
-                        ],
-                        [
-                            [
-                                130
-                            ]
-                        ],
-                        [
-                            [
-                                131
-                            ]
-                        ],
-                        [
-                            [
-                                132
-                            ]
-                        ],
-                        [
-                            [
-                                133
-                            ]
-                        ],
-                        [
-                            [
-                                134
-                            ]
-                        ],
-                        [
-                            [
-                                135
-                            ]
-                        ],
-                        [
-                            [
-                                136
-                            ]
-                        ],
-                        [
-                            [
-                                137
-                            ]
-                        ],
-                        [
-                            [
-                                138
-                            ]
-                        ],
-                        [
-                            [
-                                139,
-                                140,
-                                141,
-                                142,
-                                143,
-                                144
-                            ]
-                        ],
-                        [
-                            [
-                                145
-                            ]
-                        ],
-                        [
-                            [
-                                146
-                            ]
-                        ],
-                        [
-                            [
-                                147
-                            ]
-                        ],
-                        [
-                            [
-                                148
-                            ]
-                        ],
-                        [
-                            [
-                                149
-                            ]
-                        ],
-                        [
-                            [
-                                150
-                            ]
-                        ],
-                        [
-                            [
-                                151
-                            ]
-                        ],
-                        [
-                            [
-                                152
-                            ]
-                        ],
-                        [
-                            [
-                                153
-                            ]
-                        ],
-                        [
-                            [
-                                154
-                            ]
-                        ],
-                        [
-                            [
-                                155
-                            ]
-                        ],
-                        [
-                            [
-                                156
-                            ]
-                        ],
-                        [
-                            [
-                                157
-                            ]
-                        ],
-                        [
-                            [
-                                158
-                            ]
-                        ],
-                        [
-                            [
-                                159
-                            ]
-                        ],
-                        [
-                            [
-                                160
-                            ]
-                        ],
-                        [
-                            [
-                                161
-                            ]
-                        ],
-                        [
-                            [
-                                162
-                            ]
-                        ],
-                        [
-                            [
-                                163
-                            ]
-                        ]
-                    ],
-                    "id": "CAN",
-                    "properties": {
-                        "name": "Canada"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            235,
-                            236,
-                            237,
-                            238
-                        ]
-                    ],
-                    "id": "CRI",
-                    "properties": {
-                        "name": "Costa Rica"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            239
-                        ]
-                    ],
-                    "id": "CUB",
-                    "properties": {
-                        "name": "Cuba"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            258,
-                            259
-                        ]
-                    ],
-                    "id": "DOM",
-                    "properties": {
-                        "name": "Dominican Republic"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            341,
-                            342,
-                            -101,
-                            343,
-                            344,
-                            345
-                        ]
-                    ],
-                    "id": "GTM",
-                    "properties": {
-                        "name": "Guatemala"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            349,
-                            350,
-                            -345,
-                            351,
-                            352
-                        ]
-                    ],
-                    "id": "HND",
-                    "properties": {
-                        "name": "Honduras"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -260,
-                            359
-                        ]
-                    ],
-                    "id": "HTI",
-                    "properties": {
-                        "name": "Haiti"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            412
-                        ]
-                    ],
-                    "id": "JAM",
-                    "properties": {
-                        "name": "Jamaica"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            -99,
-                            -343,
-                            479,
-                            480,
-                            481
-                        ]
-                    ],
-                    "id": "MEX",
-                    "properties": {
-                        "name": "Mexico"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            531,
-                            -353,
-                            532,
-                            -237
-                        ]
-                    ],
-                    "id": "NIC",
-                    "properties": {
-                        "name": "Nicaragua"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            546,
-                            -239,
-                            547,
-                            -232
-                        ]
-                    ],
-                    "id": "PAN",
-                    "properties": {
-                        "name": "Panama"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            564
-                        ]
-                    ],
-                    "id": "PRI",
-                    "properties": {
-                        "name": "Puerto Rico"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            645,
-                            -346,
-                            -351
-                        ]
-                    ],
-                    "id": "SLV",
-                    "properties": {
-                        "name": "El Salvador"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            669
-                        ]
-                    ],
-                    "id": "TTO",
-                    "properties": {
-                        "name": "Trinidad and Tobago"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                692
-                            ]
-                        ],
-                        [
-                            [
-                                693
-                            ]
-                        ],
-                        [
-                            [
-                                694
-                            ]
-                        ],
-                        [
-                            [
-                                695
-                            ]
-                        ],
-                        [
-                            [
-                                696
-                            ]
-                        ],
-                        [
-                            [
-                                697,
-                                -481,
-                                698,
-                                -140
-                            ]
-                        ],
-                        [
-                            [
-                                699
-                            ]
-                        ],
-                        [
-                            [
-                                700
-                            ]
-                        ],
-                        [
-                            [
-                                701
-                            ]
-                        ],
-                        [
-                            [
-                                -144,
-                                702,
-                                -142,
-                                703
-                            ]
-                        ]
-                    ],
-                    "id": "USA",
-                    "properties": {
-                        "name": "United States"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                751
-                            ]
-                        ],
-                        [
-                            [
-                                752
-                            ]
-                        ]
-                    ],
-                    "id": "ATG",
-                    "properties": {
-                        "name": "Antigua and Barbuda"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            753
-                        ]
-                    ],
-                    "id": "BRB",
-                    "properties": {
-                        "name": "Barbados"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            754
-                        ]
-                    ],
-                    "id": "DMA",
-                    "properties": {
-                        "name": "Dominica"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            755
-                        ]
-                    ],
-                    "id": "GRD",
-                    "properties": {
-                        "name": "Grenada"
-                    }
-                },
-                {
-                    "type": "MultiPolygon",
-                    "arcs": [
-                        [
-                            [
-                                756
-                            ]
-                        ],
-                        [
-                            [
-                                757
-                            ]
-                        ]
-                    ],
-                    "id": "KNA",
-                    "properties": {
-                        "name": "Saint Kitts and Nevis"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            758
-                        ]
-                    ],
-                    "id": "LCA",
-                    "properties": {
-                        "name": "Saint Lucia"
-                    }
-                },
-                {
-                    "type": "Polygon",
-                    "arcs": [
-                        [
-                            759
-                        ]
-                    ],
-                    "id": "VCT",
-                    "properties": {
-                        "name": "Saint Vincent and the Grenadines"
-                    }
-                }
-            ]
+  "type": "Topology",
+  "objects": {
+    "world": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[83]], [[84]], [[85]]],
+          "id": "BHS",
+          "properties": {
+            "name": "Bahamas"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[98, 99, 100]],
+          "id": "BLZ",
+          "properties": {
+            "name": "Belize"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [[129]],
+            [[130]],
+            [[131]],
+            [[132]],
+            [[133]],
+            [[134]],
+            [[135]],
+            [[136]],
+            [[137]],
+            [[138]],
+            [[139, 140, 141, 142, 143, 144]],
+            [[145]],
+            [[146]],
+            [[147]],
+            [[148]],
+            [[149]],
+            [[150]],
+            [[151]],
+            [[152]],
+            [[153]],
+            [[154]],
+            [[155]],
+            [[156]],
+            [[157]],
+            [[158]],
+            [[159]],
+            [[160]],
+            [[161]],
+            [[162]],
+            [[163]]
+          ],
+          "id": "CAN",
+          "properties": {
+            "name": "Canada"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[235, 236, 237, 238]],
+          "id": "CRI",
+          "properties": {
+            "name": "Costa Rica"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[239]],
+          "id": "CUB",
+          "properties": {
+            "name": "Cuba"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[258, 259]],
+          "id": "DOM",
+          "properties": {
+            "name": "Dominican Republic"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[341, 342, -101, 343, 344, 345]],
+          "id": "GTM",
+          "properties": {
+            "name": "Guatemala"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[349, 350, -345, 351, 352]],
+          "id": "HND",
+          "properties": {
+            "name": "Honduras"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-260, 359]],
+          "id": "HTI",
+          "properties": {
+            "name": "Haiti"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[412]],
+          "id": "JAM",
+          "properties": {
+            "name": "Jamaica"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[-99, -343, 479, 480, 481]],
+          "id": "MEX",
+          "properties": {
+            "name": "Mexico"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[531, -353, 532, -237]],
+          "id": "NIC",
+          "properties": {
+            "name": "Nicaragua"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[546, -239, 547, -232]],
+          "id": "PAN",
+          "properties": {
+            "name": "Panama"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[564]],
+          "id": "PRI",
+          "properties": {
+            "name": "Puerto Rico"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[645, -346, -351]],
+          "id": "SLV",
+          "properties": {
+            "name": "El Salvador"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[669]],
+          "id": "TTO",
+          "properties": {
+            "name": "Trinidad and Tobago"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [[692]],
+            [[693]],
+            [[694]],
+            [[695]],
+            [[696]],
+            [[697, -481, 698, -140]],
+            [[699]],
+            [[700]],
+            [[701]],
+            [[-144, 702, -142, 703]]
+          ],
+          "id": "USA",
+          "properties": {
+            "name": "United States"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[751]], [[752]]],
+          "id": "ATG",
+          "properties": {
+            "name": "Antigua and Barbuda"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[753]],
+          "id": "BRB",
+          "properties": {
+            "name": "Barbados"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[754]],
+          "id": "DMA",
+          "properties": {
+            "name": "Dominica"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[755]],
+          "id": "GRD",
+          "properties": {
+            "name": "Grenada"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [[[756]], [[757]]],
+          "id": "KNA",
+          "properties": {
+            "name": "Saint Kitts and Nevis"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[758]],
+          "id": "LCA",
+          "properties": {
+            "name": "Saint Lucia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [[759]],
+          "id": "VCT",
+          "properties": {
+            "name": "Saint Vincent and the Grenadines"
+          }
         }
+      ]
     }
+  }
 }
