@@ -4,16 +4,18 @@ import {
   Geographies,
   Geography,
   ZoomableGroup,
-  Sphere,
   Graticule,
 } from 'react-simple-maps';
 import geoURL from './world.json';
 import { Tooltip, TooltipRefProps } from 'react-tooltip';
-import { useRef, useId } from 'react';
+import { useRef, useId, useState } from 'react';
+import { LocaleTypes } from '@/utils/localization/settings';
 
-export default function Map() {
+export default function Map({ locale }: MapProps) {
   let tooltip = useRef<TooltipRefProps>(null);
   const id = useId();
+  const [country, setCountry] = useState<string>('');
+
   return (
     <div className="bg-red-400 relative">
       <ComposableMap
@@ -31,6 +33,9 @@ export default function Map() {
                 <Geography
                   key={geo.rsmKey}
                   onMouseEnter={() => {
+                    locale === 'ko'
+                      ? setCountry(geo.properties.name_ko)
+                      : setCountry(geo.properties.name_en);
                     document.body.classList.add('target');
                   }}
                   onMouseLeave={() => {
@@ -57,7 +62,7 @@ export default function Map() {
       >
         <div className="flex gap-x-5">
           <div className="flex justify-center items-center">
-            <p className="font-primary-Regular font-bold">Brazil</p>
+            <p className="font-primary-Regular font-bold">{country}</p>
           </div>
           <div>
             <small className=" font-primary-Regular">Online Revenue</small>
@@ -68,3 +73,7 @@ export default function Map() {
     </div>
   );
 }
+
+type MapProps = {
+  locale: LocaleTypes;
+};

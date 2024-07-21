@@ -1,8 +1,14 @@
 import Map from '@/components/maps/map';
-export default function AboutPage() {
+import { LocaleTypes } from '@/utils/localization/settings';
+
+export default function AboutPage({
+  params: { locale },
+}: {
+  params: { locale: LocaleTypes };
+}) {
   return (
     <div>
-      <Map />
+      <Map locale={locale} />
     </div>
   );
 }
